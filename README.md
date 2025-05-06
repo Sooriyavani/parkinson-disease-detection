@@ -30,11 +30,6 @@ I preprocessed the images: Resized them to 224x224 Normalized the pixel values A
 
 If it's Early Stage, it recommends lifestyle changes and mild meds like Selegiline For Moderate, it suggests Levodopa or Dopamine agonists For Advanced, it recommends stronger drugs and consult with a neurologist Note: These are just sample outputs for learning and not real medical advice.
 
-How to Run It
-
-git clone https://github.com/SOORIYAVEENA08/parkinson_dedection/tree/main
-
-pip install -r requirements.txt
 
 🌱 What I Learned How to build a CNN model for image classification Understanding MRI data and preprocessing steps How to serve a machine learning model with Flask Giving real-world context by suggesting medication based on prediction Importance of responsible AI (I clearly mention it’s for learning, not diagnosis)
 
